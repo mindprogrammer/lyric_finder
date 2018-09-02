@@ -2,7 +2,7 @@
   "name": "lyricfinder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mindprogrammer.github.io/lyricfinder",
+  "homepage": "https://mindprogrammer.github.io/lyric_finder",
   "dependencies": {
     "axios": "^0.18.0",
     "gh-pages": "^1.2.0",
